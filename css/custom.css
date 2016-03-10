@@ -1,6 +1,6 @@
 /*your custom CSS here*/
 .heading {
-  background-image:url(../img/heading.jpg);
+  background-image:url(../img/IMG_3018.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-color: #003366
@@ -9,7 +9,7 @@
 }
 
 .heading h1 {
-    color: #fff;
+    color: black;
     font-size: 50px;
     text-align: center;
     width: 100%;
