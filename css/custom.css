@@ -49,8 +49,12 @@ a:visited{
   color: #000000;
 }
 
+p{
+  color: #ffffff;
+}
+
 footer{
-  color: #e60000;
+  color: #ffffff;
   font-size: 10px;
 }
 
