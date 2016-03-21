@@ -44,6 +44,8 @@ h2{
   background-color: #008080;
   padding: 10px;
   font-size: 20px;
+  text-decoration: none;
+  text-align: center;
 }
 
 a{
@@ -53,5 +55,4 @@ a{
 footer{
   color: #ffffff;
   font-size: 10px;
-  background-color: #008080;
 }
