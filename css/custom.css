@@ -27,18 +27,6 @@ img{
   width: 100%;
 }
 
-.box{
-  float: left;
-  width:20%;
-  margin-bottom: 100px;
-  padding-top: 10px;
-  color: #ffffff;
-  font-size: 15px;
-}
-
-.maincontent {
-}
-
 h2{
   color: #ffffff;
   background-color: #008080;
@@ -55,4 +43,16 @@ a{
 footer{
   color: #ffffff;
   font-size: 10px;
+}
+
+.box{
+  float: left;
+  width:20%;
+  margin-bottom: 100px;
+  padding-top: 10px;
+  color: #ffffff;
+  font-size: 15px;
+}
+
+.maincontent {
 }
