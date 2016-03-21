@@ -32,12 +32,21 @@ h2{
   background-color: #008080;
   padding: 10px;
   font-size: 20px;
-  text-decoration: none;
   text-align: center;
 }
 
 a{
   color: #ffffff;
+}
+
+a:link{
+  text-decoration: none;
+  color: #ffffff
+}
+
+a:visited{
+  text-decoration: none;
+  color: #000000;
 }
 
 footer{
