@@ -52,5 +52,7 @@ a{
 
 footer{
   color: #ffffff;
-  text-align:center;
+  text-align: center;
+  font-size: 10px;
+  background-color: #008080;
 }
