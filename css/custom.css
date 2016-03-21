@@ -29,7 +29,7 @@ img{
 }
 
 h2{
-  color: #ffffff;
+  color: #000000;
   background-color: #004d4d;
   padding: 10px;
   font-size: 25px;
@@ -37,21 +37,21 @@ h2{
 }
 
 a{
-  color: #ffffff;
+  color: #004d4d;
 }
 
 a:link{
   text-decoration: none;
-  color: #ffffff
+  color: #004d4d
 }
 
 a:visited{
   text-decoration: none;
-  color: #000000;
+  color: #004d4d;
 }
 
 p{
-  color: #ffffff;
+  color: #004d4d;
 }
 
 form{
